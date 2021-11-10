@@ -11,3 +11,5 @@ Pour commencer à bosser sur une tâche :
 
 à voir :
 - revues de codes (merge request) avant chaque merge sur la branche develop
+
+Si on casse develop : on amène les croissants le matin
